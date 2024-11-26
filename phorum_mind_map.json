@@ -1,0 +1,30 @@
+{
+    "title": "Phorum Development Plan",
+    "description": "A Reddit-like platform with improvements.",
+    "steps": {
+        "runbook": "Document steps and process thoroughly.",
+        "AWS_integration": "Validate AWS as a hosting option.",
+        "development": {
+            "framework": "MVC (Model-View-Controller)",
+            "languages": [
+                "PHP",
+                "Python"
+            ],
+            "tools": [
+                "OpenAI GPT",
+                "AWS"
+            ]
+        },
+        "roles": [
+            "Scrum Master",
+            "Seniors",
+            "Juniors"
+        ],
+        "UI_design": "Refine based on provided sketches."
+    },
+    "hosting": [
+        "AWS",
+        "Azure",
+        "Self-hosting"
+    ]
+}
